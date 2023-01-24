@@ -1,0 +1,28 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.cont-exp{
+    border-top: 6px solid black;
+    padding: 90px 20px;
+    border-bottom: 6px solid black;
+
+}
+.my-padd{
+    padding: 80px 0px;
+}
+.exp-lab{
+    border-left: 4px solid red;
+    padding-left: 20px;
+}
+.circulo{
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: -35px;
+}
+.my-h2{
+
+}
